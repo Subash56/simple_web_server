@@ -4,7 +4,7 @@ content='''
 <!doctype html>
 <html>
 <head>
-<title> My laptop configurationr</title>
+<title> My laptop configuration</title>
 </head>
 <body align="center"><h1>My laptop configuration</h1>
 <table border="5" align="center">
